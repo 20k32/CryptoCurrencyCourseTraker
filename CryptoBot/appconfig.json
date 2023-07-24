@@ -1,0 +1,25 @@
+{
+  "BotApiSettings": {
+    "BotApiKey": "_yoursupersecretbotapikey_",
+    "ExternalStorage": "https://crypto.com/price?page=",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82",
+    "CommandToStopBot": "stop",
+    "AdminNotificationOnStart": "Бот запущен, чтоб остановить бота напишите 'stop' и нажмите 'Enter'.",
+    "AdminNotificationOnStop": "Бот остановлен.",
+    "UserNotificationOnNoMatchesFound": "Такой валюты нет.",
+    "ShowButtonsUserNotification": "Кнопки отображены",
+    "HideButtonsUserNotification": "Кнопки спрятаны",
+    "DefaultCommandNames": {
+      "GetTopCurrencies": "Топ валют",
+      "PostData": "Загрузить данные на сервер",
+      "GetPreviousPage": "Предыдущая",
+      "GetNextPage": "Следующая",
+      "HideButtons": "Спрятать панель с кнопками",
+      "HideButtonsCommand": "/hide_buttons",
+      "HideButtonsCommandDescription": "Cпрятать панель с кнопками",
+      "ShowButtonsCommand": "/show_buttons",
+      "ShowButtonsCommandDescription": "Отобразить панель с кнопками",
+      "BeginConversation": "Начать диалог"
+    }
+  }
+}
